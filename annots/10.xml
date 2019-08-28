@@ -14,25 +14,37 @@
 	<object>
 		<name>whiskey</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>134</xmin>
-			<ymin>182</ymin>
-			<xmax>530</xmax>
-			<ymax>648</ymax>
+			<xmin>202</xmin>
+			<ymin>333</ymin>
+			<xmax>456</xmax>
+			<ymax>800</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>whiskey</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>539</xmin>
-			<ymin>164</ymin>
-			<xmax>766</xmax>
-			<ymax>603</ymax>
+			<xmin>11</xmin>
+			<ymin>289</ymin>
+			<xmax>219</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>whiskey</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>452</xmin>
+			<ymin>263</ymin>
+			<xmax>652</xmax>
+			<ymax>800</ymax>
 		</bndbox>
 	</object>
 </annotation>

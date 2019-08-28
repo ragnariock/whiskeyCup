@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>whiskey</name>
+		<name>whiskey </name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>228</xmin>
-			<ymin>91</ymin>
-			<xmax>575</xmax>
-			<ymax>738</ymax>
+			<xmin>210</xmin>
+			<ymin>453</ymin>
+			<xmax>352</xmax>
+			<ymax>670</ymax>
 		</bndbox>
 	</object>
 </annotation>
